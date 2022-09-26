@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:cDgGZRebRKSg3bn2omzfbg
+url: https://github.com/rssnyder/adminlab
+urlType: REPO
+username: rssnyder
